@@ -26,7 +26,7 @@ O jogo termina quando a palavra é descoberta ou as tentativas se esgotam
 
 🧠 Tecnologias utilizadas
 
-Python 3.x
+Python 3.11.3
 
 Módulo random (biblioteca padrão)
 
